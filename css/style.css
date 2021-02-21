@@ -338,7 +338,8 @@ background: var(--light);
     padding-bottom:1rem;
     object-fit: contain;
 }
-.section-heading{margin-top: 10px;
+.section-heading{
+    margin-top: 10px;
     font-family: "Raleway-Bold";
     text-align: center;
     position: relative;
@@ -546,8 +547,8 @@ section.our-services .service-card p{
 
   .big-deal{
      background: linear-gradient(
-         rgba(35,43,56,0.9),
-         rgba(35,43,56,0.9)
+         rgba(66, 74, 85, 0.9),
+         rgba(28, 35, 46, 0.9)
      ), url(./images/foodtable.jpg);
   
     background-size: cover;
@@ -1014,7 +1015,7 @@ footer .box:nth-child(3) > div{
      
       
    } 
-   }
+}
 
 #myBtn {
     display: none;
